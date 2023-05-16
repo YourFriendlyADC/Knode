@@ -1,0 +1,349 @@
+﻿¿Cuál de las siguientes afirmaciones es correcta sobre los archivos secuenciales?
+Son adecuados para acceso aleatorio a los datos
+Son adecuados para aplicaciones en las que los datos deben mantenerse ordenados
+Son adecuados para aplicaciones en las que los datos deben actualizarse con frecuencia
+Son adecuados para aplicaciones en las que los datos se almacenan en memoria
+b
+
+¿Cuál de las siguientes afirmaciones es correcta sobre los archivos secuenciales indexados?
+Son adecuados para aplicaciones en las que los datos deben mantenerse ordenados
+Son adecuados para acceso aleatorio a los datos
+Son adecuados para aplicaciones en las que los datos deben actualizarse con frecuencia
+Son adecuados para aplicaciones en las que los datos se almacenan en memoria
+b
+
+¿Cómo se almacenan los elementos en una lista enlazada?
+En una estructura de datos jerárquica
+En una estructura de datos lineal y contigua en la memoria
+En una estructura de datos no contigua en la memoria
+En una estructura de datos ordenada
+c
+
+¿Cuál de las siguientes afirmaciones es correcta sobre las listas doblemente enlazadas?
+Cada elemento de la lista contiene un enlace solo a su predecesor
+Cada elemento de la lista contiene un enlace solo a su sucesor
+Los elementos de la lista se almacenan en una estructura de datos no contigua en la memoria
+Cada elemento de la lista contiene un enlace a su predecesor y sucesor
+d
+
+¿Cuál de las siguientes afirmaciones es correcta sobre las listas circulares?
+El último elemento de la lista contiene un enlace al primer elemento
+El primer elemento de la lista contiene un enlace al último elemento
+Los elementos de la lista se almacenan en una estructura de datos jerárquica
+Los elementos de la lista se almacenan en una estructura de datos no contigua en la memoria
+a
+
+¿Cuál de las siguientes afirmaciones es correcta sobre las multilistas?
+Se utilizan para almacenar datos en varias dimensiones
+Cada elemento de la lista contiene varios enlaces a otros elementos de la lista
+Los elementos de la lista se almacenan en una estructura de datos no contigua en la memoria
+Son adecuados para aplicaciones en las que los datos deben mantenerse ordenados
+a
+
+¿Cuál es la principal ventaja de los archivos secuenciales sobre otros tipos de archivos?
+Permiten el acceso aleatorio a los datos
+Permiten una búsqueda rápida de los datos
+Permiten almacenar grandes cantidades de datos
+Permiten una lectura y escritura secuencial de los datos
+b
+
+¿Cuál es la principal diferencia entre los archivos secuenciales y los archivos secuenciales indexados?
+Los archivos secuenciales indexados permiten el acceso aleatorio a los datos
+Los archivos secuenciales indexados no requieren de un índice para acceder a los datos
+Los archivos secuenciales indexados son más lentos que los archivos secuenciales
+Los archivos secuenciales indexados son más fáciles de implementar que los archivos secuenciales
+c
+
+¿Qué estructura de datos se utiliza para implementar una pila?
+Listas enlazadas
+Árboles
+Archivos secuenciales
+Colas
+a
+
+¿Cuál es la principal ventaja de las listas circulares sobre otras estructuras de datos?
+Permiten una lectura y escritura secuencial de los datos
+Permiten el acceso aleatorio a los datos
+Permiten una búsqueda rápida de los datos
+Permiten un acceso eficiente al primer y último elemento de la lista
+d
+
+¿Cuál es la principal desventaja de los archivos secuenciales?
+Requieren mucho espacio de almacenamiento
+No permiten el acceso aleatorio a los datos
+Son más lentos que otros tipos de archivos
+No permiten una búsqueda rápida de los datos
+b
+
+¿Qué operación es más eficiente en una lista enlazada que en una lista doblemente enlazada?
+Insertar un elemento al principio de la lista
+Insertar un elemento en medio de la lista
+Realizar la búsqueda de un elemento
+Eliminar un elemento de una posición específica
+a
+
+¿Qué operación es más eficiente en un archivo secuencial que en un archivo secuencial indexado?
+Buscar un elemento específico en el archivo
+Insertar un elemento en una posición específica del archivo
+Borrar un elemento de una posición específica del archivo
+Leer el archivo completo de forma secuencial
+d
+
+¿Qué estructura de datos se utiliza para implementar una lista de espera?
+Listas enlazadas
+Listas circulares
+Colas
+Pilas
+c
+
+¿Qué operación es más eficiente en una lista doblemente enlazada que en una lista enlazada simple?
+Buscar un elemento específico en la lista
+Insertar un elemento en una posición específica de la lista
+Borrar un elemento de una posición específica de la lista
+Leer la lista completa de forma secuencial
+b
+
+¿Qué operación es más eficiente en una multilista que en una lista enlazada simple?
+Buscar un elemento específico en la lista
+Insertar un elemento en una posición específica de la lista
+Borrar un elemento de una posición específica de la lista
+Leer la lista completa de forma secuencial
+a
+
+¿Qué operación es más eficiente en un archivo secuencial indexado que en un archivo secuencial?
+Buscar un elemento específico en el archivo
+Insertar un elemento en una posición específica del archivo
+Borrar un elemento de una posición específica del archivo
+Leer el archivo completo de forma secuencial
+a
+
+¿Qué afirmación es correcta sobre pilas?
+Los elementos se almacenan de forma aleatoria
+Los elementos se organizan en varias dimensiones
+Los elementos se agregan y se eliminan en el mismo extremo
+Los elementos se agregan y se eliminan en diferentes extremos
+c
+
+¿Qué afirmación es corecta sobre colas?
+Los elementos se agregan y se eliminan en diferentes extremos
+Los elementos se agregan y se eliminan en el mismo extremo
+Los elementos se organizan de forma aleatoria
+Los elementos se organizan en varias dimensiones
+a
+
+¿Qué es un archivo secuencial?
+Un archivo en el que los datos se organizan aleatoriamente
+Un archivo en el que los datos se organizan de forma secuencial
+Un archivo que se puede acceder de forma rápida y eficiente
+Un archivo que solo se puede leer
+b
+
+¿Cuál de las siguientes opciones NO es una característica de un archivo secuencial indexado?
+Se pueden buscar rápidamente los datos
+Los datos se organizan de forma secuencial
+Los datos se pueden actualizar fácilmente
+Los datos se organizan en bloques
+b
+
+¿Qué es un puntero en una lista enlazada?
+Un elemento que indica el tamaño total de la lista
+Un elemento que almacena el valor de un elemento en la lista
+Un elemento que indica la posición del primer elemento en la lista
+Un elemento que indica la dirección de memoria del siguiente elemento en la lista
+d
+
+¿Cuál es la principal desventaja de los archivos secuenciales?
+Los datos se organizan de forma secuencial
+Los datos se pueden actualizar fácilmente
+Los datos se pueden buscar rápidamente
+Solo se puede acceder a los datos en orden
+d
+
+¿Qué es una clave en un archivo secuencial indexado?
+Un valor que se asigna automáticamente a cada registro
+Un valor que se utiliza para buscar un registro específico
+Un valor que indica la posición de un registro en el archivo
+Un valor que se utiliza para actualizar un registro
+b
+
+¿Qué estructura de datos utiliza el principio LIFO?
+Pilas
+Multilistas
+Archivos secuenciales
+Colas
+a
+
+¿Qué estructura de datos utiliza el principio FIFO?
+Pilas
+Multilistas
+Archivos secuenciales
+Colas
+d
+
+¿Cuál de las siguientes estructuras de datos no utiliza enlaces?
+Pila
+Listas circulares
+Cola
+Archivos
+d
+
+¿Qué es el recorrido de una lista enlazada?
+Pasar desde el nodo inicial hasta el nodo final y luego regresar el nodo inicial
+Pasar por cada uno desde el nodo inicial hasta el nodo final de la lista enlazada
+Mostrar solamente el nodo inicial y final de la lista enlazada
+Retornar un elemento específico de la lista
+b
+
+No tienen un tamaño predeﬁnido y la memoria utilizada para almacenarlas se reserva o libera en tiempo de ejecución:
+Array o arreglos
+Estructuras de datos dinámicas
+Pilas y colas
+Estructuras de datos estáticas
+b
+
+¿Cuál de las siguientes afirmaciones sobre las pilas es verdadera?
+Sigue una política de "primero en entrar, primero en salir" (FIFO)
+Sigue una política de "último en entrar, primero en salir" (LIFO)
+No permite la inserción ni eliminación de elementos
+Utiliza un puntero para acceder al elemento del medio
+b
+
+¿Cuál es la principal diferencia entre una lista enlazada y un arreglo?
+Una lista enlazada permite acceso aleatorio a los elementos, mientras que un arreglo no
+Un arreglo permite la inserción y eliminación eficiente de elementos, una lista enlazada no
+Una lista enlazada utiliza punteros para enlazar los elementos, mientras que un arreglo no
+Un arreglo puede cambiar su tamaño dinámicamente, mientras que una lista enlazada no
+c
+
+¿Cuál es el principal objetivo de una lista doblemente enlazada?
+Permitir la inserción rápida en cualquier posición
+Facilitar la búsqueda de elementos en tiempo constante
+Almacenar datos de manera ordenada en un arreglo
+Mantener un orden jerárquico entre los elementos para facilitar su búsqueda y manipulación
+a
+
+Una estructura de datos dinámica:
+Puede crecer o disminuir de tamaño en tiempo de ejecución
+Siempre tiene un tamaño fijo y predeterminado
+Solo se puede modificar en tiempo de compilación
+Solo puede ser accedida en orden secuencial
+a
+
+¿Cuál es la principal ventaja de una cola de prioridad sobre una cola normal?
+Las colas de prioridad son más fáciles de implementar que las colas normales
+Las colas de prioridad permiten agregar elementos en cualquier posición
+Las colas de prioridad siempre eliminan el primer elemento agregado
+Las colas de prioridad eliminan elementos en función de su prioridad
+d
+
+Una pila de llamadas se utiliza para:
+Almacenar llamadas telefónicas
+Almacenar las direcciones de memoria de las funciones que se están ejecutando
+Almacenar los datos que se van a imprimir en pantalla
+Almacenar los resultados de operaciones matemáticas
+b
+
+¿Qué estructura de datos se puede utilizar para implementar una cola?
+Lista enlazada simple
+Archivo secuencial indexado
+Lista doblemente enlazada
+Pila
+a
+
+Una lista doblemente enlazada:
+Solo permite acceder a los elementos en orden
+Permite acceder a cualquier elemento directamente
+No permite eliminar elementos
+Solo se puede recorrer en un sentido
+b
+
+LIFO significa:
+Último en entrar, último en salir
+Primero en entrar, último en salir
+Primero en entrar, primero en salir
+Último en entrar, primero en salir
+d
+
+FIFO significa:
+Último en entrar, último en salir
+Primero en entrar, último en salir
+Primero en entrar, primero en salir
+Último en entrar, primero en salir
+c
+
+Una estructura de datos enlazada:
+Tiene un tamaño fijo y una ubicación de memoria asignada en tiempo de compilación
+Utiliza punteros para enlazar sus elementos
+Puede cambiar de tamaño en tiempo de ejecución
+Utiliza una técnica de balanceo para garantizar un acceso eficiente a sus elementos
+b
+
+Una estructura de datos estática:
+Puede cambiar de tamaño en tiempo de ejecución
+Utiliza punteros para enlazar sus elementos
+Tiene un tamaño fijo y una ubicación de memoria asignada en tiempo de compilación
+Utiliza una técnica de balanceo para garantizar un acceso eficiente a sus elementos
+c
+
+¿Cuál es la principal desventaja de las colas?
+No permiten acceso aleatorio a los elementos
+Los elementos se insertan en un orden específico
+Son ineficientes para realizar búsquedas por criterios de selección
+No son útiles para la implementación de algoritmos recursivos
+a
+
+¿Cuál de las siguientes es la estructura de datos más segura?
+Archivo secuencial
+Archivo secuencial indexado
+Lista doblemente enlazada
+Todas son igual de seguras
+d
+
+¿Qué es una multilista?
+Una lista en la que cada elemento tiene un puntero al siguiente elemento de la lista
+Una lista en la que cada elemento tiene un puntero al elemento anterior y al siguiente
+Una estructura de datos que permite organizar elementos en una estructura jerárquica
+Una estructura de datos que permite almacenar datos de diferentes tipos
+c
+
+¿Cuál de las siguientes estructuras de datos permite la eliminación de elementos en el orden inverso en que fueron agregados?
+Lista enlazada
+Pila
+Cola
+Lista circular
+b
+
+Una multilista puede almacenar:
+Únicamente listas enlazadas
+Cualquier tipo de listas
+Listas enlazadas y doblemente enlazadas
+Únicamente archivos
+b
+
+En estructura de datos, un apuntador es:
+Una variable que almacena el valor de un elemento en una estructura de datos
+Una forma de acceder a los elementos de un arreglo mediante un índice
+Una referencia a una dirección de memoria donde se almacena un elemento
+Una estructura de datos utilizada para almacenar elementos de diferentes tipos de datos
+c
+
+En estructura de datos, un nodo es:
+Un valor almacenado en una estructura de datos lineal
+Un índice utilizado para acceder a un elemento en un arreglo
+Una estructura de datos utilizada para almacenar elementos de diferentes tipos de datos
+Un elemento en una estructura de datos jerárquica que almacena datos y referencias a otros nodos
+d
+
+Una multilista se puede entender como:
+Una lista de listas
+Una lista que almacena varios tipos de datos
+Un archivo de listas
+Una lista que almacena un solo tipo de dato
+a
+
+¿Cuál es el tipo de lista en el que cada elemento tiene un puntero al siguiente elemento y también al anterior?
+Lista enlazada simple
+Lista doblemente enlazada
+Lista circular
+Lista multilista
+b
